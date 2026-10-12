@@ -1,0 +1,7 @@
+[show]
+[FixedMyRoleYN]
+柔軟蓬鬆的床，不知道在夢裡又睡著的話會去到哪裡，夢中夢？[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+[FixedMyRoleYN]
+[hide]
+[DestroyMy]
+[stop]

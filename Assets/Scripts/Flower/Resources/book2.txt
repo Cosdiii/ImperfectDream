@@ -1,0 +1,8 @@
+[show]
+[FixedMyRoleYN]
+你隨手拿起一本漫畫書翻看，一股冰冷陰濕的感覺卻從你的指尖竄入，另你的脊背一陣發涼。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+你想，或許是畫這本漫畫書的人的怨念殘留在書本上了吧。[w]
+[FixedMyRoleYN]
+[hide]
+[DestroyMy]
+[stop]
