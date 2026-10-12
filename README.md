@@ -16,7 +16,7 @@
 ## 🛠️ 核心程式架構與技術亮點 (Technical Highlights)
 
 ### 1. 🕹️ 玩家動態控制與邊界管理 (CharacterAMove.cs)
-* **多向移動與跑步加速**：透過 Unity 新輸入系統與 Input.GetKey 實現 WASD 四方向平滑移動，並支援 LeftControl 鍵按住進行跑步加速。
+* **多向移動與跑步加速**：透過 Input.GetKey 實現 WASD 四方向平滑移動，並支援 LeftControl 鍵按住進行跑步加速。
 * **空間邊界防護與狀態鎖定**：設定嚴格的座標防護網（限制 X/Y 軸極限範圍），避免角色穿模；同時提供 lockPlayer 靜態狀態開關，在進入劇情或對話時精準凍結玩家移動。
 
 ### 2. 🔍 碰撞偵測與調查互動系統 (IconE.cs、IconE2.cs、IconE3.cs)
