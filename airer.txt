@@ -1,7 +1,0 @@
-[show]
-[FixedMyRoleYN]
-冰冷的晾衣桿非常高冷，它一句話都不想跟你說。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
-[FixedMyRoleYN]
-[hide]
-[DestroyMy]
-[stop]
