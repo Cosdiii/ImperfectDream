@@ -1,6 +1,0 @@
-[show]
-[image,fg8,box image1,0,160,10,spFadeIn_100]
-被鎖住的盒子，似乎需要輸入四位密碼才能打開，盒子旁邊刻了字，寫著「邊的數量」。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
-[remove,fg8,spFadeOut_100]
-[hide]
-[stop]
