@@ -20,7 +20,7 @@
 * **空間邊界防護與狀態鎖定**：設定嚴格的座標防護網（限制 X/Y 軸極限範圍），避免角色穿模；同時提供 lockPlayer 靜態狀態開關，在進入劇情或對話時精準凍結玩家移動。
 
 ### 2. 🔍 碰撞偵測與調查互動系統 (IconE.cs、IconE2.cs、IconE3.cs)
-* **物件動態識別**：利用 OnTriggerEnter2D 抓取碰撞物件名稱（如 table`、box`、`door`）。
+* **物件動態識別**：利用 OnTriggerEnter2D 抓取碰撞物件名稱（如 `table`、`box`、`door`）。
 * **條件式互動提示**：結合遊戲章節進度（`flowerSystemProcess`），動態決定是否顯示調查按鈕（Icon E），並在離開範圍時自動收起介面與切換 BGM。
 
 ### 3. 💬 敘事文本與對話系統 (Dialogue & Scripting)
