@@ -1,0 +1,8 @@
+[show]
+[FixedMyRoleYN]
+窗外一片光亮，盯著看了許久後，一個個黑色文字突然浮現，在潔白的畫面上組成一句話[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+「看什麼看，這裡沒做，也沒有線索，滾!」[w]
+[FixedMyRoleYN]
+[hide]
+[DestroyMy]
+[stop]

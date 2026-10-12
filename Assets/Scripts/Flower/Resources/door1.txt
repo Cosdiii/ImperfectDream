@@ -1,0 +1,7 @@
+[show]
+[FixedMyRoleYN]
+被鎖住的門，似乎需要輸入四位數的密碼才能打開。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+[PauseMyGame]
+[FixedMyRoleYN]
+[hide]
+[stop]

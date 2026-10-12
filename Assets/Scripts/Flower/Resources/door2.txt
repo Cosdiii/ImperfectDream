@@ -1,0 +1,10 @@
+[show]
+[FixedMyRoleYN]
+[image,fg11,pass image1,0,160,10,spFadeIn_100]
+「4.11.8.13.7.2.8.13」
+門上面有一排奇怪的數字，會不會是有什麼對應呢？[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+[PauseMyGame]
+[remove,fg11,spFadeOut_100]
+[FixedMyRoleYN]
+[hide]
+[stop]

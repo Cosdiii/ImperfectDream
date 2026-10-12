@@ -1,0 +1,8 @@
+[show]
+是嗎，看來這趟旅程讓你收穫很多啊，那麼，我也不煩你了，再見。[w]
+[image,fg33,08,0,0,10,spFadeIn_100]
+<b><size=30>賀長樂</size></b>[r]
+不完美的我，也挺好的。[r]<size=20>[[點擊空白鍵或滑鼠左鍵後，請點ESC鍵回到遊戲主畫面]</size>[w]
+[remove,fg33,spFadeOut_100]
+[hide]
+[stop]

@@ -1,0 +1,7 @@
+[show]
+[FixedMyRoleYN]
+一些漫畫書被整齊的收在了箱子裡，最上層的漫畫書封面上畫著一隻露出凶相的吉娃娃，似乎在控訴著被關在箱子裡的不公待遇。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+[FixedMyRoleYN]
+[hide]
+[DestroyMy]
+[stop]

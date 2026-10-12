@@ -1,0 +1,8 @@
+[show]
+[FixedMyRoleYN]
+澄澈的水裡，一隻用紙摺成的金魚正在魚缸裡歡快的游來游去。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+該說不愧是夢嗎，什麼不可能的事情都有可能發生呢。[w]
+[FixedMyRoleYN]
+[hide]
+[DestroyMy]
+[stop]

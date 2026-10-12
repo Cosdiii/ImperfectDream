@@ -1,0 +1,8 @@
+[show]
+[FixedMyRoleYN]
+你敲了敲層架，卻發現發出的聲音不是常見的敲擊聲，而是女生的崩潰聲:[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+「敲什麼敲，調查文案是你寫的嗎你就敲!」不知道是不是音效放錯了。[w]
+[FixedMyRoleYN]
+[hide]
+[DestroyMy]
+[stop]

@@ -1,0 +1,6 @@
+[show]
+[FixedMyRoleYN]
+一疊考卷被黏在牆上，上面的分數都是100分，仔細一看有國文、英文、歷史、地理、公民等科目。[r]<size=20>[[點擊空白鍵或滑鼠左鍵以繼續對話]</size>[w]
+[FixedMyRoleYN]
+[hide]
+[stop]
