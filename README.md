@@ -23,7 +23,7 @@
 * **物件動態識別**：利用 OnTriggerEnter2D 抓取碰撞物件名稱（如 `table`、`box`、`door`）。
 * **條件式互動提示**：結合遊戲章節進度（`flowerSystemProcess`），動態決定是否顯示調查按鈕（Icon E），並在離開範圍時自動收起介面與切換 BGM。
 
-### 3. 💬 敘事文本與對話系統 (Dialogue & Scripting)
+### 3. 💬 敘事文本與對話系統
 * **Flower 系統腳本整合**：運用 Flower 套件文本指令（如 [show], [w], [r] 等）實作環境調查與劇情對話控管。
 
 ---
